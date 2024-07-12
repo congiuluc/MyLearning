@@ -4,11 +4,13 @@
 [MS Learn: API Management](https://learn.microsoft.com/en-us/azure/api-management/)
 
 ## E-Learning 
+
+### Pluralsight
 * [ ] [Deploying ASP.NET Core 6 Web API to Azure API Management](https://app.pluralsight.com/library/courses/asp-dot-net-core-6-deploying-web-api-azure-management/table-of-contents) 2022
 * [ ] [Microsoft Azure API Management Essentials](https://app.pluralsight.com/library/courses/microsoft-azure-api-management-essentials/table-of-contents) 2021
 * [ ] [Designing an API Management Strategy for Microsoft Azure](https://app.pluralsight.com/library/courses/microsoft-azure-api-management-strategy-designing/table-of-contents) 2021
 
-
+### Microsoft Learn
 * [ ] [Introduction to Azure API Management](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-api-management/)
 * [ ] [AZ-204: Implement API Management](https://learn.microsoft.com/en-us/training/paths/az-204-implement-api-management/)
 
@@ -23,3 +25,7 @@
 * [ ] [Integrate OpenAPI-enabled Web APIs with Azure API Management through Visual Studio](https://learn.microsoft.com/en-us/training/modules/integrate-openapi-enabled-web-api-with-apim-and-visual-studio/)
 
 * [ ] [Design solutions for securing applications](https://learn.microsoft.com/en-us/training/modules/design-solutions-secure-applications/)
+
+
+### GitHub
+https://github.com/Azure/apim-landing-zone-accelerator
